@@ -1,0 +1,36 @@
+[25-Mar-2019 05:24:44 Etc/GMT] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 69
+[25-Mar-2019 05:24:44 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 70
+[25-Mar-2019 05:24:44 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/freechaq/public_html/play/data/scoreupdate/table.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 78
+[25-Mar-2019 05:33:41 Etc/GMT] PHP Notice:  Undefined index: id in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 87
+[25-Mar-2019 05:33:41 Etc/GMT] PHP Notice:  Undefined index: id in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 88
+[25-Mar-2019 05:33:41 Etc/GMT] PHP Notice:  Undefined index: name in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 89
+[25-Mar-2019 05:33:41 Etc/GMT] PHP Notice:  Undefined index: program in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 90
+[25-Mar-2019 05:33:41 Etc/GMT] PHP Notice:  Undefined index: id in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 91
+[25-Mar-2019 05:46:46 Etc/GMT] PHP Notice:  Undefined index: id in /home/freechaq/public_html/play/data/scoreupdate/table.php on line 96
+[25-Mar-2019 05:51:53 Etc/GMT] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 3
+[25-Mar-2019 05:51:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 5
+[25-Mar-2019 05:51:53 Etc/GMT] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 3
+[25-Mar-2019 05:51:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 5
+[25-Mar-2019 05:51:53 Etc/GMT] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 3
+[25-Mar-2019 05:51:53 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 5
+[25-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined index: sfirstname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 15
+[25-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined index: slastname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 16
+[25-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined index: susername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 17
+[25-Mar-2019 06:34:03 Etc/GMT] PHP Notice:  Undefined index: spubgusername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 18
+[25-Mar-2019 06:42:35 Etc/GMT] PHP Notice:  Undefined index: sfirstname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 15
+[25-Mar-2019 06:42:35 Etc/GMT] PHP Notice:  Undefined index: slastname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 16
+[25-Mar-2019 06:42:35 Etc/GMT] PHP Notice:  Undefined index: susername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 17
+[25-Mar-2019 06:42:35 Etc/GMT] PHP Notice:  Undefined index: spubgusername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 18
+[25-Mar-2019 06:44:22 Etc/GMT] PHP Notice:  Undefined index: sfirstname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 15
+[25-Mar-2019 06:44:22 Etc/GMT] PHP Notice:  Undefined index: slastname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 16
+[25-Mar-2019 06:44:22 Etc/GMT] PHP Notice:  Undefined index: susername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 17
+[25-Mar-2019 06:44:22 Etc/GMT] PHP Notice:  Undefined index: spubgusername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 18
+[25-Mar-2019 06:45:30 Etc/GMT] PHP Notice:  Undefined index: sfirstname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 15
+[25-Mar-2019 06:45:30 Etc/GMT] PHP Notice:  Undefined index: slastname in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 16
+[25-Mar-2019 06:45:30 Etc/GMT] PHP Notice:  Undefined index: susername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 17
+[25-Mar-2019 06:45:30 Etc/GMT] PHP Notice:  Undefined index: spubgusername in /home/freechaq/public_html/play/data/scoreupdate/editStudent.php on line 18
+[28-Mar-2019 06:30:30 Etc/GMT] PHP Warning:  require_once(/home/freechaq/public_html/play/data/scoreupdate../db_connect.php): failed to open stream: No such file or directory in /home/freechaq/public_html/play/data/scoreupdate/score.php on line 83
+[28-Mar-2019 06:30:30 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/freechaq/public_html/play/data/scoreupdate../db_connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/freechaq/public_html/play/data/scoreupdate/score.php on line 83

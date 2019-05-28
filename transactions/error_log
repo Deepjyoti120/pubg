@@ -1,0 +1,31 @@
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(matchadd.php): failed to open stream: No such file or directory in /home/freechaq/public_html/play/data/playerdetails/index.php on line 71
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(): Failed opening 'matchadd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/freechaq/public_html/play/data/playerdetails/index.php on line 71
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(matchedit.php): failed to open stream: No such file or directory in /home/freechaq/public_html/play/data/playerdetails/index.php on line 75
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(): Failed opening 'matchedit.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/freechaq/public_html/play/data/playerdetails/index.php on line 75
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(matchdelete.php): failed to open stream: No such file or directory in /home/freechaq/public_html/play/data/playerdetails/index.php on line 80
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(): Failed opening 'matchdelete.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/freechaq/public_html/play/data/playerdetails/index.php on line 80
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(matchview.php): failed to open stream: No such file or directory in /home/freechaq/public_html/play/data/playerdetails/index.php on line 85
+[26-Mar-2019 11:13:41 Etc/GMT] PHP Warning:  include(): Failed opening 'matchview.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/freechaq/public_html/play/data/playerdetails/index.php on line 85
+[26-Mar-2019 11:21:42 Etc/GMT] PHP Warning:  require_once(/home/freechaq/public_html/play/data/playerdetails/db_connect.php): failed to open stream: No such file or directory in /home/freechaq/public_html/play/data/playerdetails/allplayers.php on line 25
+[26-Mar-2019 11:21:42 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/freechaq/public_html/play/data/playerdetails/db_connect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/freechaq/public_html/play/data/playerdetails/allplayers.php on line 25
+[27-Mar-2019 12:03:33 Etc/GMT] PHP Notice:  Undefined variable: row in /home/freechaq/public_html/play/data/transactions/allwithdrawal.php on line 103
+[27-Mar-2019 12:03:33 Etc/GMT] PHP Notice:  Undefined variable: row in /home/freechaq/public_html/play/data/transactions/allwithdrawal.php on line 103
+[27-Mar-2019 13:29:43 Etc/GMT] PHP Notice:  Undefined variable: row in /home/freechaq/public_html/play/data/transactions/allwithdrawal.php on line 133
+[27-Mar-2019 13:29:43 Etc/GMT] PHP Notice:  Undefined variable: row in /home/freechaq/public_html/play/data/transactions/allwithdrawal.php on line 133
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: trnid in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 14
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: trnid in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 15
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: userid in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 16
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: firstname in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 17
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: lastname in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 18
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: username in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 19
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: amount in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 20
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: paytmnumber in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 22
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: status in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 23
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: log_entdate in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 24
+[27-Mar-2019 14:09:49 Etc/GMT] PHP Notice:  Undefined index: trnid in /home/freechaq/public_html/play/data/transactions/withdrawalquery.php on line 25
+[28-Mar-2019 05:25:15 Etc/GMT] PHP Notice:  Undefined variable: results in /home/freechaq/public_html/play/data/transactions/playertransactionsquery.php on line 58
+[28-Mar-2019 05:25:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/freechaq/public_html/play/data/transactions/playertransactionsquery.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/freechaq/public_html/play/data/transactions/playertransactionsquery.php on line 58
+[28-Mar-2019 05:25:40 Etc/GMT] PHP Notice:  Undefined index: trnid in /home/freechaq/public_html/play/data/transactions/playertransactionsquery.php on line 60
